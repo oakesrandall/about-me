@@ -1,41 +1,36 @@
 # About Me
 
 ## Before GA:
-I was working at a web agency called BlueModus as a UX Lead.
+I ran the digital content team for a TV station, before that, I ran day-to-day operations for entire newsrooms in a couple of markets.
 
 ## Outcomes support I need:
-None - I will be providing it (with Becca)
+I need all of the outcomes support.
 
 ## Day 1 Goals:
-1. Make 17 new developers
+1. Lean to be a competent developer so I can provide for my family in an environment that doesn't make me want to kill myself
 
 ## Two Truths and a Lie
 
-### Nick
-1. I have two cats named Gin and Tonic
-2. My last vacation was to the West Bank
-3. I bike 30 miles to get here each day
-
-### Becca
-1. I once ate 8 lobsters in one sitting.
-2. I skipped college graduation and booked a one way flight to Paris.
-3. I donated my eggs and have a child in Europe that I've never met.
+### David
+1. I have met two sitting U.S. Presidents
+2. I have met baseball legends Roger Clemens and Nolan Ryan
+3. I have met Chuck Norris
 
 ## My LinkedIn
-[Here!](https://www.linkedin.com/in/nickandersonr)
+[Here!](https://www.linkedin.com/in/david-randall-86237030/)
 
 ## Meetups I've attended:
-1. Denver Script (6/7)
-2. Denver Script (6/27)
+1. Hiring event at WeWork LOHI (I'll have to look up the date)
+2. Denver Script (August)
 
 ## What type of company would you like to work for (i.e. Agency, Product, Startup)?
-I like the idea of working for startup or small business. I think I could thrive in an agency role. It's important to me that my work have a visible impact on the company I'm working for. I also want to be able to wear metal tshirts to work.
+I'm not terribly picky about this one.  Most of all, I'd like to work in a role with a strong team so I can grow as a developer.
 
 ## What kind of role are you leaning towards (i.e. Frontend, Backend, etc)?
-I like frontend and UX work, so something with a combined dev/design role would be perfect. I also like talking to people, and would feel confident leading projects from a manamagent role. 
+I feel pretty comfortable with the front end, but I really want to get better working on the back end.  I'm going to spend a lot of free time reading and working on node, psql and mongoose so I can look for a full-stack role.
 
 ## Link to my resume: 
-[Here!](NickAnderson_Resume.pdf)
+[Here!](David_Randall_Resume.pdf)
 
 ## Link to my portfolio website: 
-[NickAnderson.rocks](http://NickAnderson.rocks)
+[randall.cloud](http://www.randall.cloud) I haven't switched it over from the awful one I made before GA.
